@@ -3,3 +3,9 @@
 gebruik markdown
 ## plaatje erbij
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## code
+### javascript
+var myVar = "Hello, world!";
+### vue
+const svg = ref("");
+const fonts = ref([]);
