@@ -21,3 +21,7 @@ const form = useLocalStorage("app-form", { name: "", greeting: "Merry Christmas"
 const svg = ref("");
 const fonts = ref([]);
 ```
+## lijst
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
