@@ -7,8 +7,8 @@
 
 ## tabel
 
-| Rank | iets |
-|-----:|---------|
-|     1| een     |
-|     2| twee    |
-|     3| drie    |
+| Rank | iets | nog iets |
+|---:|:---:|:---|
+|     1| *een*     | one |
+|     2| twee    | **two** |
+|     3| drie    | three |
