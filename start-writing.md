@@ -11,8 +11,31 @@
 
 | Rank | iets | nog iets |
 |---:|:---:|:---|
-|     1| *een*     | one |
-|     2| twee    | **two** |
-|     3| drie    | three |
+|1| *een*     | one |
+|    2| twee    | **two** |
+|    3| drie    | three |
+|  4| 
 
 </details>
+
+---
+> iets belangrijks
+
+— Oscar
+
+## lijst
+- [x] foo
+  - [ ] bar
+  - [x] baz
+- [ ] bim
+
+## combi
+- [x] foo
+<details>
+<summary> foo?
+</summary>
+  
+  - [ ] bar
+  - [x] baz
+</details>
+- [ ] bim
