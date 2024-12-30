@@ -6,9 +6,13 @@
 </picture>
 
 ## tabel
+<details>
+<summary>My top THINGS-TO-RANK</summary>
 
 | Rank | iets | nog iets |
 |---:|:---:|:---|
 |     1| *een*     | one |
 |     2| twee    | **two** |
 |     3| drie    | three |
+
+</details>
